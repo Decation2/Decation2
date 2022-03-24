@@ -8,4 +8,4 @@ Also im helped Ghalbeyou to make game launcher.
 ### simplevirus - just unlimited opening programs like an calculator and other...
 # Copyright for all my programs
 No copy!
-All rights of programs maked by Decation2
+All rights for my programs 

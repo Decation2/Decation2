@@ -7,6 +7,7 @@ Also im helped Ghalbeyou to make game launcher.
 ### Berainminer - simple miner in batch.
 ### simplevirus - just unlimited opening programs like an calculator and other... 
 ### WinKiller - delete windows
+### Winactivor - activate windows
 # Copyright for all my programs
 No copy!
 All rights for my programs 

@@ -2,6 +2,7 @@
 What im make? Im make the program named winoptimizer.
 I make programs only in batch programming language.
 Also im helped Ghalbeyou to make game launcher.
+And im trying to understand the Python programs.
 ## My projects
 ### Winoptimizer - optimize your windows!
 ### Berainminer - simple miner in batch.

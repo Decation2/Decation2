@@ -1,5 +1,5 @@
 # Welcome to the Decation2 page!
-I'm an student, trying to learn PascalABC.NET but I also learned an batch programming language!
+simple profile, I'm an student.
 
 ### PascalCalculator - calculator on PascalABC.NET!
 # Winoptimizer - optimize Windows.

@@ -6,5 +6,5 @@ simple profile, I'm an student.
 ## WindowsActivator - activate your Windows.
 
 # How to contact to me?
-Telegram: @Decation
+Telegram: @brokenmask1
 Discord: Decation#8569

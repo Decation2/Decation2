@@ -1,5 +1,5 @@
 # Welcome to the Decation2 page!
-simple profile, I'm an student.
+simple profile.
 
 ### PascalCalculator - calculator on PascalABC.NET!
 # Winoptimizer - optimize Windows.

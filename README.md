@@ -6,5 +6,5 @@ simple profile.
 ## WindowsActivator - activate your Windows.
 
 # How to contact to me?
-Telegram: @brokenmask1
+Telegram: no contact in this time
 Discord: Decation#8569

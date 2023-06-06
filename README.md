@@ -7,4 +7,5 @@ simple profile.
 
 # How to contact to me?
 Telegram: no contact in this time
-Discord: Decation#8569
+Discord: kotnosok1#8569
+Lolzteam: https://zelenka.guru/kotnosok/write
